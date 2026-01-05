@@ -30,7 +30,7 @@ const Education = () => {
 		{
 			school: "Best Matriculation Higher Secondary School",
 			location: "Sirkali,TamilNadu,Chennai",
-			duration: "June 2018 - July 2019",
+			duration: "June 2019 - July 2020",
 			degree: "Higher Secondary (State Board Of TamilNadu)",
 			grade: "Percentage: 70%",
 			image: "/education/school_img.jpg",
