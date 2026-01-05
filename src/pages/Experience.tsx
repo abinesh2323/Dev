@@ -9,7 +9,7 @@ const experiences = [
 		title: "Cloud Computing & DevOps Technical Training",
 		company: "CodeClause",
 		location: "Remote",
-		period: "Jun 2023 - Jul 2023",
+		period: "Aug 2024 - June 2025",
 		type: "Internship",
 		image: "/experience/besant.png",
 		certificateUrl: "/files/experience_pdf/cloudtraining.pdf",
