@@ -58,6 +58,7 @@ const About = () => {
 						</p>
 						<p className="text-gray-300 leading-relaxed">
 							I started getting serious about development during college, where I took ownership of real-world projects end-to-end: designing UIs, writing backend logic, deploying to the cloud, and keeping things running in production. That experience shaped how I think about software clean code, automation, security, and reliability matter.
+						</p>
 						<p className="text-gray-300 leading-relaxed">
 							I work primarily with React on the frontend, API driven backends, and cloud platforms like AWS and Vercel. I’m comfortable containerizing apps with Docker, setting up CI/CD pipelines, and monitoring systems after deployment. I’ve built real time chat applications and SaaS style systems, focusing on performance, security, and smooth user experience.
 						</p>
