@@ -24,7 +24,7 @@ const experiences = [
 		location: "Remote",
 		period: "Oct 2024 - Nov 2024",
 		type: "Internship",
-		image: "/experience/velocity.png",
+		image: "/experience/velozity.png",
 		description: [
 			"Created technical documentation, blogs, and tutorials on web development.",
 			" Collaborated with teams to improve UI/UX design and website performance."
