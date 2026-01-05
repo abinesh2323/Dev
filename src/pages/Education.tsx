@@ -22,6 +22,7 @@ const Education = () => {
 				"AI",
 				"ML",
 				"OS",
+				"Web-Dev",
 				"Networking",
 			],
 			description: "During my time at SSEC, I have built a strong foundation in computer science, focusing on software development, problem-solving, and real-world applications. Engaging in hands-on projects, internships, and coding challenges has helped me enhance my technical and analytical skills. This experience prepares me for a future in software development, equipping me with the ability to create scalable and efficient solutions."
@@ -30,15 +31,14 @@ const Education = () => {
 			school: "Best Matriculation Higher Secondary School",
 			location: "Sirkali,TamilNadu,Chennai",
 			duration: "June 2018 - July 2019",
-			degree: "Higher Secondary (WBSC)",
-			grade: "Percentage: 79%",
+			degree: "Higher Secondary (State Board Of TamilNadu)",
+			grade: "Percentage: 70%",
 			image: "/education/school_img.jpg",
 			resultUrl: "/files/education_pdf/12TH MARKSHEET.pdf",
 			subjects: [
 				"Physics",
 				"Chemistry",
 				"Mathematics",
-				"Biology",
 				"Computer Science"
 			],
 			description: "My higher secondary education laid the foundation for my technical journey, strengthening my analytical thinking and problem-solving abilities. The strong emphasis on mathematics and computer science has been instrumental in shaping my passion for software development, enabling me to approach complex technical challenges with confidence."
