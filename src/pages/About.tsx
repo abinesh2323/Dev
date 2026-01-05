@@ -8,17 +8,17 @@ const About = () => {
 	const achievements = [
 		{
 			icon: <Code2 className="w-6 h-6" />,
-			title: "10+ Projects",
+			title: "4+ Projects",
 			description: "Completed full-stack web applications"
 		},
 		{
 			icon: <Briefcase className="w-6 h-6" />,
-			title: "3+ Internships",
+			title: "3 Internships",
 			description: "Professional work experience"
 		},
 		{
 			icon: <GraduationCap className="w-6 h-6" />,
-			title: "8.48 CGPA",
+			title: "8.1 CGPA",
 			description: "Academic excellence"
 		}
 	];
