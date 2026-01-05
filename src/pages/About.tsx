@@ -54,21 +54,23 @@ const About = () => {
 				<ScrollAnimation className="space-y-6">
 					<div className="space-y-4">
 						<p className="text-gray-300 leading-relaxed">
-							Hi! I'm a passionate full-stack developer with expertise in building modern web applications. My journey in tech started during my college years, where I discovered my love for creating innovative solutions through code.
+							Hi! I’m a Full-Stack Developer with a B.Tech in Information Technology, driven by building applications that are production ready, scalable, and cloud native ,not just “it works on my machine” projects.
 						</p>
 						<p className="text-gray-300 leading-relaxed">
-							Completed my B.Tech in Information Technology, I've maintained a strong academic record while actively engaging in real-world projects and internships. This blend of theoretical knowledge and practical experience has shaped my approach to problem-solving and software development.
+							I started getting serious about development during college, where I took ownership of real-world projects end-to-end: designing UIs, writing backend logic, deploying to the cloud, and keeping things running in production. That experience shaped how I think about software clean code, automation, security, and reliability matter.
+						<p className="text-gray-300 leading-relaxed">
+							I work primarily with React on the frontend, API driven backends, and cloud platforms like AWS and Vercel. I’m comfortable containerizing apps with Docker, setting up CI/CD pipelines, and monitoring systems after deployment. I’ve built real time chat applications and SaaS style systems, focusing on performance, security, and smooth user experience.
 						</p>
 						<p className="text-gray-300 leading-relaxed">
-							I specialize in Cloud & Full Stack technologies, with a keen interest in creating performant and user-friendly applications. My experience includes working with various startups and contributing to open-source projects.
-						</p>
+							I enjoy learning by building, breaking, fixing, and shipping. Whether it’s experimenting with DevOps workflows, improving system reliability, or collaborating with fast moving teams, I’m always looking to grow and deliver better software.
+						</p>	
 					</div>
 
 					<ScrollAnimation>
 						<div className="pt-4">
 							<h3 className="text-2xl font-semibold mb-4 gradient-text">Quick Facts</h3>
 							<ul className="list-none space-y-3">
-								{["Based in Kolkata, WB, India", "B.Tech in Computer Science", "CGPA: 8.48"].map((fact, index) => (
+								{["Based in Mayiladuthurai, Chennai , TamilNadu", "B.Tech in Information Technology ", "CGPA: 8.1"].map((fact, index) => (
 									<motion.li
 										key={fact}
 										className="flex items-center space-x-2 text-gray-300"
