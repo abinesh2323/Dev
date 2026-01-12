@@ -6,11 +6,13 @@ import { ScrollAnimation } from '@/components/ScrollAnimation';
 
 const projects = [
 	{
-		title: 'Blockchain Based Counterfiet Goods Identification',
-		description: 'A Decentrelised Application to stop the supply chain of duplicates products running in black market. ',
-		image: '/projects_img/image1.png',
-		github: 'https://github.com/abinesh2323/Blockchain-Based-Counterfeit-Detection-System.git',
-		tags: ["Node.js","Javascript","React.js","SHA256-Algo","Ganache","Metamask","Truffle","Blockchain","QR_code Generation"]
+		title: 'URAIYADAL-Clone Version of Slack',
+		description: 'Implemented real-time chat, calls, file sharing, and production monitoring using modern full-stack and DevOps practices.',
+		image: '/projects_img/image5.png',
+		github: 'https://github.com/abinesh2323/slackclone.git',
+		live: 'https://main.d24al9annwk1zu.amplifyapp.com/auth',
+		tags: ['React.js','Vite','Node.js','Express.js','MongoDB Atlas','Stream Chat','Clerk','Tailwind CSS','Inngest','Cloudinary','AWS Amplify','Vercel','CI/CD','DevOps','End-to-End Encryption','Cloud Firewall']
+
 	},
 	{
 		title: 'Abinify-Live(Clone Version of Streamify)',
@@ -21,6 +23,14 @@ const projects = [
 		tags: ["Next.js", "React.js", "Tailwindcss", "Clerk", "Vite", "Javascript","Stream_Api","Mongodb"]
 	},
 	{
+		title: 'AI VIRTUAL ASSISTANT USING GEMINI API',
+		description: 'AI-powered virtual assistant web app built with the MERN stack that understands voice commands, talks back using Web Speech API, and generates intelligent replies via Gemini AI.',
+		image: '/projects_img/image4.png',
+		github: 'https://github.com/abinesh2323/Jarvis.git',
+		live: 'https://vrfrontend.onrender.com',
+		tags: ["React.js","Node.js","Express.js","MongoDB","Gemini AI","Web Speech API","JWT","bcryptjs","Multer","Cloudinary","Render","MongoDB Atlas","dotenv","cookie-parser"]
+	},	
+	{
 		title: 'Simple-Docker Based react Application',
 		description: 'A simple web page designed with react.js,javascript,css and deployed with AWS S3 bucket with docker image file.',
 		image: '/projects_img/image3.png',
@@ -28,21 +38,11 @@ const projects = [
 		tags: ["React.js", "AWS","S3","Docker","DevOps"]
 	},
 	{
-		title: 'AI VIRTUAL ASSISTANT USING GEMINI API',
-		description: 'AI-powered virtual assistant web app built with the MERN stack that understands voice commands, talks back using Web Speech API, and generates intelligent replies via Gemini AI.',
-		image: '/projects_img/image4.png',
-		github: 'https://github.com/abinesh2323/Jarvis.git',
-		live: 'https://vrfrontend.onrender.com',
-		tags: ["React.js","Node.js","Express.js","MongoDB","Gemini AI","Web Speech API","JWT","bcryptjs","Multer","Cloudinary","Render","MongoDB Atlas","dotenv","cookie-parser"]
-	},
-	{
-		title: 'URAIYADAL-Clone Version of Slack',
-		description: 'Implemented real-time chat, calls, file sharing, and production monitoring using modern full-stack and DevOps practices.',
-		image: '/projects_img/image5.png',
-		github: 'https://github.com/abinesh2323/slackclone.git',
-		live: 'https://main.d24al9annwk1zu.amplifyapp.com/auth',
-		tags: ['React.js','Vite','Node.js','Express.js','MongoDB Atlas','Stream Chat','Clerk','Tailwind CSS','Inngest','Cloudinary','AWS Amplify','Vercel','CI/CD','DevOps','End-to-End Encryption','Cloud Firewall']
-
+		title: 'Blockchain Based Counterfiet Goods Identification',
+		description: 'A Decentrelised Application to stop the supply chain of duplicates products running in black market. ',
+		image: '/projects_img/image1.png',
+		github: 'https://github.com/abinesh2323/Blockchain-Based-Counterfeit-Detection-System.git',
+		tags: ["Node.js","Javascript","React.js","SHA256-Algo","Ganache","Metamask","Truffle","Blockchain","QR_code Generation"]
 	},
 ];
 
