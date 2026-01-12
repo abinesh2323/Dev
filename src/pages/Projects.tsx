@@ -18,7 +18,7 @@ const projects = [
 		title: 'Abinify-Live(Clone Version of Streamify)',
 		description: 'A real-time collaborative design tool inspired by Streamify.A React based App enables users to create and join video meetings with chat, reaction Emojis,screen sharing, and recording features.',
 		image: '/projects_img/image2.png',
-		github: 'https://github.com/abinesh2323/Figma-Clone',
+		github: 'https://github.com/abinesh2323/Abinify-Live',
 		live: 'https://tigma1.vercel.app/',
 		tags: ["Next.js", "React.js", "Tailwindcss", "Clerk", "Vite", "Javascript","Stream_Api","Mongodb"]
 	},
