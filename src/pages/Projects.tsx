@@ -5,11 +5,30 @@ import { Github, ExternalLink } from 'lucide-react';
 import { ScrollAnimation } from '@/components/ScrollAnimation';
 
 const projects = [
+			{
+		title: 'Whisper - Mobile Realtime Chat Application(Both Android & Apple IOS)',
+		description: 'Built a Full-Stack Web + Mobile App Successfully developed a production-ready full-stack application with: Runs on both 🤖 Android 🍎 Apple / iOS.',
+		image: '/projects_img/image7.png',
+		github: 'https://github.com/abinesh2323/mobile_app.git',
+		live: 'https://www.linkedin.com/posts/abinesh-kalyanasundaram-369494322_fullstackdeveloper-reactnative-webdevelopment-activity-7418979830546948096-8j2N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVxgEB3eQPhkn-ILD9WjuOBbtNzl2G4X0',
+		tags: ['ReactNative','Typescript','React.js','Vite','Node.js','Express.js','MongoDB Atlas','Stream Chat','Clerk','Tailwind CSS','Inngest','Cloudinary','AWS Amplify','Vercel','CI/CD','DevOps','End-to-End Encryption','Cloud Firewall']
+
+	},
+
+		{
+		title: 'ErosByte-A community Coding platform',
+		description: 'I built a platform where they can do it online. No setup. No Docker. Just run it. 💻Introducing ErosByte (seduce your syntax) - a SaaS online IDE for developers.',
+		image: '/projects_img/image6.png',
+		github: 'https://github.com/abinesh2323/Erosbyte',
+		live: 'https://erosbyte-byaabi.vercel.app/',
+		tags: ['10-Programming Lnaguage IDE','React.js','Vite','Node.js','Express.js','MongoDB Atlas','Stream Chat','Clerk','Tailwind CSS','Inngest','Cloudinary','AWS Amplify','Vercel','CI/CD','DevOps','End-to-End Encryption','Cloud Firewall']
+
+	},
 	{
 		title: 'URAIYADAL-Clone Version of Slack',
 		description: 'Implemented real-time chat, calls, file sharing, and production monitoring using modern full-stack and DevOps practices.',
 		image: '/projects_img/image5.png',
-		github: 'https://github.com/abinesh2323/slackclone.git',
+		github: 'https://github.com/abinesh2323/slackclone',
 		live: 'https://main.d24al9annwk1zu.amplifyapp.com/auth',
 		tags: ['React.js','Vite','Node.js','Express.js','MongoDB Atlas','Stream Chat','Clerk','Tailwind CSS','Inngest','Cloudinary','AWS Amplify','Vercel','CI/CD','DevOps','End-to-End Encryption','Cloud Firewall']
 
