@@ -8,7 +8,7 @@ const projects = [
 			{
 		title: 'Whisper - Mobile Realtime Chat Application(Both Android & Apple IOS)',
 		description: 'Built a Full-Stack Web + Mobile App Successfully developed a production-ready full-stack application with: Runs on both 🤖 Android 🍎 Apple / iOS.',
-		image: '/projects_img/image7.png',
+		image: '/projects_img/image7.jpg',
 		github: 'https://github.com/abinesh2323/mobile_app.git',
 		live: 'https://www.linkedin.com/posts/abinesh-kalyanasundaram-369494322_fullstackdeveloper-reactnative-webdevelopment-activity-7418979830546948096-8j2N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVxgEB3eQPhkn-ILD9WjuOBbtNzl2G4X0',
 		tags: ['ReactNative','Typescript','React.js','Vite','Node.js','Express.js','MongoDB Atlas','Stream Chat','Clerk','Tailwind CSS','Inngest','Cloudinary','AWS Amplify','Vercel','CI/CD','DevOps','End-to-End Encryption','Cloud Firewall']
